@@ -1,0 +1,16 @@
+body {
+  background-color: #333;
+  color: #EBEAE7;
+  font-family: 'Inconsolata', monospace;
+  padding: 5% 10%; }
+
+h1 {
+  font-family: 'Dorsa', sans-serif;
+  font-size: 12em;
+  text-transform: uppercase;
+  letter-spacing: .2em; }
+
+a {
+  color: #C58827; }
+  a:focus, a:hover {
+    color: white; }
